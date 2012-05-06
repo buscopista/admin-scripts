@@ -1,0 +1,3 @@
+## Maybe compromising config files ##
+*.cfg
+.*.swp*
